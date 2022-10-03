@@ -152,6 +152,7 @@ header .site-header .header-in .layout .container {
 .main-content .layout.two-col .left-col .content h2 {
   text-align: center;
   font-size: 20px;
+  font-weight: normal;
 }
 @media screen and (min-width: 1099px) {
   .main-content .layout.two-col .left-col .content h2 {
